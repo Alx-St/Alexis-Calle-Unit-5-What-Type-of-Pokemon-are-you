@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+    font-family: 'Oswald', sans-serif;
+      text-align: center;
+ background: linear-gradient(
+    to top,
+   #D15353 0%,
+  #D15353 50%,
+  white 50%,
+   white 100%
+)
+}
+
+img {
+    width: 250px;
+}
+
+button {
+  height:25px;
+}
+
